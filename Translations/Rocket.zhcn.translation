@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Translations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<!--Made by iMax Gmail:liuless26@gmail.com-->
+  <TranslationEntry Id="rocket_join_public" Value="{0} 连接到了服务器" />
+  <TranslationEntry Id="rocket_leave_public" Value="{0} 与服务器断开连接" />
+  <TranslationEntry Id="rocket_restart_warning_public" Value="本服将在30秒内重启" />
+  <TranslationEntry Id="command_generic_failed_find_player" Value="无法找到玩家" />
+  <TranslationEntry Id="command_generic_invalid_parameter" Value="无效的参数" />
+  <TranslationEntry Id="command_generic_target_player_not_found" Value="目标玩家未找到" />
+  <TranslationEntry Id="command_generic_teleport_while_driving_error" Value="当你潜水或驾驶车辆时不能进行传送." />
+  <TranslationEntry Id="command_god_enable_console" Value="{0} 开启了上帝模式" />
+  <TranslationEntry Id="command_god_enable_private" Value="现在享受这股力量吧..." />
+  <TranslationEntry Id="command_god_disable_console" Value="{0} 关闭了上帝模式" />
+  <TranslationEntry Id="command_god_disable_private" Value="神的力量离你而去..." />
+  <TranslationEntry Id="command_vanish_enable_console" Value="{0} 开启隐身模式" />
+  <TranslationEntry Id="command_vanish_enable_private" Value="你现在隐身了..." />
+  <TranslationEntry Id="command_vanish_disable_console" Value="{0} 关闭了隐身模式" />
+  <TranslationEntry Id="command_vanish_disable_private" Value="你不再是隐身了..." />
+  <TranslationEntry Id="command_duty_enable_console" Value="{0} 被赋予了使命" />
+  <TranslationEntry Id="command_duty_enable_private" Value="你不再拥有使命了.." />
+  <TranslationEntry Id="command_duty_disable_console" Value="{0} 不再拥有使命.." />
+  <TranslationEntry Id="command_duty_disable_private" Value="你不再拥有使命了..." />
+  <TranslationEntry Id="command_bed_no_bed_found_private" Value="你没有一张床可供传送." />
+  <TranslationEntry Id="command_i_giving_console" Value="给予 {0} 物品 {1}:{2}" />
+  <TranslationEntry Id="command_i_giving_private" Value="给予你物品 {0}x {1} ({2})" />
+  <TranslationEntry Id="command_z_giving_console" Value="生成 {1} 个僵尸在 {0} 周围" />
+  <TranslationEntry Id="command_z_giving_private" Value="在附近生成了 {0} 个僵尸" />
+  <TranslationEntry Id="command_i_giving_failed_private" Value="无法给予你物品 {0}x {1} ({2})" />
+  <TranslationEntry Id="command_v_giving_console" Value="给予你 {0} 车辆 {1}" />
+  <TranslationEntry Id="command_v_giving_private" Value="给予你 {0} ({1})" />
+  <TranslationEntry Id="command_v_giving_failed_private" Value="无法给你 {0} ({1})" />
+  <TranslationEntry Id="command_tps_tps" Value="TPS: {0}" />
+  <TranslationEntry Id="command_tps_running_since" Value="启动自: {0} UTC" />
+  <TranslationEntry Id="command_p_reload_private" Value="重新载入权限" />
+  <TranslationEntry Id="command_p_groups_private" Value="{0} 组是: {1}" />
+  <TranslationEntry Id="command_p_permissions_private" Value="{0} 权限是: {1}" />
+  <TranslationEntry Id="command_tp_teleport_console" Value="{0} 已传送到 {1}" />
+  <TranslationEntry Id="command_tp_teleport_private" Value="传送到 {0}" />
+  <TranslationEntry Id="command_tp_failed_find_destination" Value="无法找到方向" />
+  <TranslationEntry Id="command_tphere_teleport_console" Value="{0} 已被传送到 {1}" />
+  <TranslationEntry Id="command_tphere_teleport_from_private" Value="已传送 {0} 到你" />
+  <TranslationEntry Id="command_tphere_teleport_to_private" Value="你已被传送 {0}" />
+  <TranslationEntry Id="command_clear_error" Value="在清理 {0} 的背包时出现了个错误." />
+  <TranslationEntry Id="command_clear_private" Value="你的背包已被清除!" />
+  <TranslationEntry Id="command_clear_other" Value="你的背包被 {0} 清除!" />
+  <TranslationEntry Id="command_clear_other_success" Value="你成功清理了 {0} 的背包." />
+  <TranslationEntry Id="command_investigate_private" Value="{0} SteamID64 是 {1}" />
+  <TranslationEntry Id="command_heal_success_me" Value="{0} 成功被治愈" />
+  <TranslationEntry Id="command_heal_success_other" Value="你被 {0} 治愈" />
+  <TranslationEntry Id="command_heal_success" Value="你被治愈" />
+  <TranslationEntry Id="command_compass_facing_private" Value="你面对的是 {0}" />
+  <TranslationEntry Id="command_compass_north" Value="N [北]" />
+  <TranslationEntry Id="command_compass_east" Value="E [东]" />
+  <TranslationEntry Id="command_compass_south" Value="S [南]" />
+  <TranslationEntry Id="command_compass_west" Value="W [西]" />
+  <TranslationEntry Id="command_compass_northwest" Value="NW [西北]" />
+  <TranslationEntry Id="command_compass_northeast" Value="NE [东北]" />
+  <TranslationEntry Id="command_compass_southwest" Value="SW [西南]" />
+  <TranslationEntry Id="command_compass_southeast" Value="SE [东南]" />
+  <TranslationEntry Id="command_rocket_plugins_loaded" Value="插件已加载: {0}" />
+  <TranslationEntry Id="command_rocket_plugins_unloaded" Value="插件未加载: {0}" />
+  <TranslationEntry Id="command_rocket_reload_plugin" Value="重新载入 {0}" />
+  <TranslationEntry Id="command_rocket_not_loaded" Value="插件 {0} 没有载入" />
+  <TranslationEntry Id="command_rocket_unload_plugin" Value="反载入 {0}" />
+  <TranslationEntry Id="command_rocket_load_plugin" Value="加载 {0}" />
+  <TranslationEntry Id="command_rocket_already_loaded" Value="插件 {0} 已经加载了" />
+  <TranslationEntry Id="command_rocket_reload" Value="正在重启 Rocket" />
+  <TranslationEntry Id="command_p_group_not_found" Value="未找到组[Group]" />
+  <TranslationEntry Id="command_p_group_assigned" Value="{0} 已经被分配到了 {1}" />
+  <TranslationEntry Id="command_rocket_plugin_not_found" Value="插件 {0} 未找到" />
+  <TranslationEntry Id="command_clear_success" Value="你成功清理了 {0} 件物品" />
+</Translations>
